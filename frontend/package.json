@@ -1,0 +1,25 @@
+{
+  "name": "job-application-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.14",
+    "axios": "^1.7.7",
+    "core-js": "^3.8.3",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.0",
+    "vue": "^3.3.0",
+    "vue-router": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "~5.0.0",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "eslint": "^8.5.0",
+    "eslint-plugin-vue": "^9.3.0"
+  }
+}
